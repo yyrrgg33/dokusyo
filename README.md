@@ -1,7 +1,7 @@
 # dokusyo
 dokusyo memo and rensyuu dayo
 
-:book::book::book::book::book::book::pencil:
+:book::book::book::book::book::pencil:
 
 　
 [マークダウン記法 一覧表・チートシート](https://qiita.com/kamorits/items/6f342da395ad57468ae3)
